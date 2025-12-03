@@ -1,6 +1,6 @@
-# Healthcare Field Mappings System
+# Field Mappings System
 
-This system provides intelligent field name matching for healthcare and insurance data standardization. It matches incoming field names against a library of known source field patterns and returns standardized target field names.
+This system provides intelligent field name matching for data standardization. It matches incoming field names against a library of known source field patterns/ML semantics and returns standardized target field names.
 
 ## Table Structure
 - **src**: Source field name patterns (what the system matches against)
